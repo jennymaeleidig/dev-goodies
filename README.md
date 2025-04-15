@@ -38,6 +38,7 @@ Collection of Resources and Tools I use
 * [Monokai-Proish for `bat`]() - 
 * [CommitMono]() - 
 * [Firefox Theme]()
+* [ht]()
 
 ## Applications
 * [AltTab]()
