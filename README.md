@@ -37,18 +37,18 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
 
 ## config
-* [iterm cfg]()
-* [mac system preferences]() 
-* [`bash_profile`]()
-* [`bashrc`]()
+* [iterm cfg](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/iterm/Default.json)
+* [mac system preferences](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/mac/Preferences.zip) 
+* [`.bash_profile`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bash_profile)
+* [`.bashrc`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bashrc)
 
 ## style
 * [monokai pro](https://monokai.pro/) - objectively the best
-    * [`bat`]() - theme
-    * [iterm]() - theme
+    * [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/bat/Monokai%20Proish.tmTheme) - theme
+    * [iterm](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/iterm/Monokai_Pro.itermcolors) - theme
     * [vscode](https://monokai.pro/vscode) - theme
     * [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro) - theme
-* [commitmono](https://commitmono.com/) - nuetral monospace font for dev
+* [commitmono](https://commitmono.com/) - nuetral monospace [font](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/font/CommitMonoV143.zip) for dev
 * [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox_material_dark_yellow/) - gruvbox_material_dark_yellow
 * [ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - bash prompt, shouts out to [harrison](https://github.com/HarrisonGagnon)
 
