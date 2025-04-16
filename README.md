@@ -75,9 +75,12 @@ Collection of Resources and Tools I use (typically on MacOS)
 
 ## game dev
 * [pico-8](https://www.lexaloffle.com/pico-8.php) - "hardware" contrained retro dev
+    * ~~resources~~ [Coming Soon]
 * [godot](https://godotengine.org/) - open source game engine
 * [love2d](https://love2d.org/) - free game engine in lua
+    * [learn2love](https://rvagamejams.com/learn2love/) - guide by the lovely [rvagamejams]()
 * [playdate sdk](https://play.date/dev/) - develop for the [playdate](https://play.date/)
+    * ~~resources~~ [Coming Soon]
 * [playdate pulp](https://play.date/pulp/) - in browser, low code development for playdate
 
 ### other usefull lil' goodies
