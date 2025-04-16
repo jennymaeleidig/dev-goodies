@@ -35,6 +35,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [save webp as](https://github.com/jscher2000/Save-webP-as-extension) - save webp files as png / jpg
 * [cookie block](https://github.com/dibollinger/CookieBlock) - block tracking cookies
 * [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
+* [clear site cookies](https://addons.mozilla.org/en-US/firefox/addon/clear-site-cookies/) - 🍪
 
 ## config
 * [iterm cfg](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/iterm/Default.json)
