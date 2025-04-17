@@ -1,6 +1,9 @@
 # goodies
 Collection of Resources and Tools I use (typically on MacOS)
 
+## ~~philosophy~~
+[Coming Soon]
+
 ## utilities
 * [`bat`](https://github.com/sharkdp/bat) - better `cat`
 * [`ripgrep`](https://github.com/BurntSushi/ripgrep) - better `grep`
@@ -62,6 +65,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [redquits](http://carsten-mielke.com/redquits.html) - actually close an application
 * [unnatural scroll wheels](https://github.com/ther0n/UnnaturalScrollWheels) - adaptive macos touchpad / mouse scrolling
 * [radio silence](https://radiosilenceapp.com/) - block pesky apps from all network communication
+* [rapid api](https://paw.cloud/) - full featured free api client
 
 ## multimedia
 * [swinsian](https://swinsian.com/) - old itunes style music library management
@@ -72,7 +76,8 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [fre:ac](https://github.com/enzo1982/freac) - free audio converter
 * [calibre](https://calibre-ebook.com/) - ebook library management
 * [musicbrainz picard](https://picard.musicbrainz.org/) - mp3 tagging
-* [pdfgear](https://www.pdfgear.com/) - pdv conversion
+* [pdfgear](https://www.pdfgear.com/) - pdf conversion
+* [app play midi](https://github.com/benwiggy/applaymidi) - lightweight midi player for macos
 
 ## game dev
 * [pico-8](https://www.lexaloffle.com/pico-8.php) - "hardware" contrained retro dev
