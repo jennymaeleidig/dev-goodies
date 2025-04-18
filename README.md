@@ -6,7 +6,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * https://catgirl.ai/log/comfy-software/
 * https://danluu.com/teach-debugging/
 * https://makefrontendshitagain.party/
-    > We need to make dumb shit! Make useless stuff; make the web fun again! 
+    * "We need to make dumb shit! Make useless stuff; make the web fun again!" 
 * https://summereternal.com/#manifesto
 * https://www.reddit.com/r/dumbphones/comments/1awdfks/dumb_iphone_a_guide/
 * https://www.inkandswitch.com/local-first/static/local-first.pdf
@@ -61,8 +61,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [mac system preferences](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/mac/Preferences.zip) 
 * [`.bash_profile`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bash_profile)
 * [`.bashrc`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bashrc)
-* [vscode]()
-* [rapid api]()
+* [vscode](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/vs-code/Default.code-profile)
 
 ## style
 * [monokai pro](https://monokai.pro/) - objectively the best
