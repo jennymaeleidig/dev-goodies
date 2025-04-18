@@ -1,8 +1,20 @@
 # goodies
 Collection of Resources and Tools I use (typically on MacOS)
 
-## ~~philosophy~~
-[Coming Soon]
+## philosophy
+* https://alazysunday.com/about-us
+* https://catgirl.ai/log/comfy-software/
+* https://danluu.com/teach-debugging/
+* https://makefrontendshitagain.party/
+    > We need to make dumb shit! Make useless stuff; make the web fun again! 
+* https://summereternal.com/#manifesto
+* https://www.reddit.com/r/dumbphones/comments/1awdfks/dumb_iphone_a_guide/
+* https://www.inkandswitch.com/local-first/static/local-first.pdf
+* https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
+* https://www.reddit.com/r/offmychest/comments/2t9zu2/a_programmer_nope_just_a_data_entry_monkey/\
+* https://singhpr.medium.com/the-anti-agile-manifesto-8dae4cd83485
+* https://harmful.cat-v.org/software/
+* https://seirdy.one/meta/badges/#ideological-affinity-web-related
 
 ## utilities
 * [`bat`](https://github.com/sharkdp/bat) - better `cat`
@@ -14,6 +26,9 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [bash-completion](https://formulae.brew.sh/formula/bash-completion) - bash prompt completion (good for git branches)
 * [neovim](https://neovim.io/) - lightweight text editor of choice
 * [vim plug](https://github.com/junegunn/vim-plug) - lightweight plugin manager for nvim
+* [colima](https://github.com/abiosoft/colima) - docker desktop alternative
+    * setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
+* [mojeek](https://www.mojeek.com/) - alternative search engine
 
 ## env / pkg management
 * [homebrew](https://brew.sh/) - pkg mgmt
@@ -26,6 +41,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 ## browser extensions
 * [privacy badger](https://privacybadger.org/) - block cross site tracking
 * [ublock origin](https://ublockorigin.com/) - block ads and popups
+    * [ublock ai blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 * [dark mode everywhere](https://www.petasittek.com/dark-mode-everywhere/) - 🌙
 * [bitwarden](https://bitwarden.com/) - password manager
 * [removepaywalls.com](https://removepaywalls.com/) - remove paywals and archive webpages
@@ -45,13 +61,15 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [mac system preferences](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/mac/Preferences.zip) 
 * [`.bash_profile`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bash_profile)
 * [`.bashrc`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bashrc)
+* [vscode]()
+* [rapid api]()
 
 ## style
 * [monokai pro](https://monokai.pro/) - objectively the best
-    * [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/bat/Monokai%20Proish.tmTheme) - theme
-    * [iterm](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/iterm/Monokai_Pro.itermcolors) - theme
-    * [vscode](https://monokai.pro/vscode) - theme
-    * [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro) - theme
+    * [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/bat/Monokai%20Proish.tmTheme)
+    * [iterm](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/iterm/Monokai_Pro.itermcolors)
+    * [vscode](https://monokai.pro/vscode)
+    * [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro)
 * [commitmono](https://commitmono.com/) - nuetral monospace [font](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/font/CommitMonoV143.zip) for dev
 * [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox_material_dark_yellow/) - gruvbox_material_dark_yellow
 * [ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - bash prompt, shouts out to [harrison](https://github.com/HarrisonGagnon)

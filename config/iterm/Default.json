@@ -88,7 +88,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.98823529409999999
   },
-  "Cursor Type" : 2,
+  "Cursor Type" : 1,
   "Keyboard Map" : {
     "0xf700-0x260000" : {
       "Action" : 10,
@@ -617,6 +617,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.59607843140000005
   },
+  "Cursor Shadow" : false,
   "Ansi 7 Color" : {
     "Red Component" : 0.98823529409999999,
     "Color Space" : "sRGB",
