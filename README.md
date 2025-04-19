@@ -2,13 +2,12 @@
 Collection of Resources and Tools I use (typically on MacOS)
 
 ## philosophy
-* https://alazysunday.com/about-us
-* https://catgirl.ai/log/comfy-software/
-* https://danluu.com/teach-debugging/
-* https://makefrontendshitagain.party/
-    * "We need to make dumb shit! Make useless stuff; make the web fun again!" 
-* https://summereternal.com/#manifesto
-* https://www.reddit.com/r/dumbphones/comments/1awdfks/dumb_iphone_a_guide/
+* ["...we want to do our part in creating a space that pushes back against the commodification of the Internet towards something more honest, expressive, and open."](https://alazysunday.com/about-us)
+* ["But there's still software out here that makes me feel happy to use, software that embodies an aesthetic that, for lack of a better word, I call cozy software"](https://catgirl.ai/log/comfy-software/)
+* [Why don't schools teach debugging?](https://danluu.com/teach-debugging/)
+* ["We need to make dumb shit! Make useless stuff; make the web fun again!"](https://makefrontendshitagain.party/)
+* ["It is not pencil-pushers and moneylenders who make games. It is the relentless passion of the workers that creates an art form capable of saying something true."](https://summereternal.com/#manifesto)
+* [Dumb down that "smart" phone a little.](https://www.reddit.com/r/dumbphones/comments/1awdfks/dumb_iphone_a_guide/)
 * https://www.inkandswitch.com/local-first/static/local-first.pdf
 * https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
 * https://www.reddit.com/r/offmychest/comments/2t9zu2/a_programmer_nope_just_a_data_entry_monkey/\
