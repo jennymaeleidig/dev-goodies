@@ -8,12 +8,13 @@ Collection of Resources and Tools I use (typically on MacOS)
 * ["We need to make dumb shit! Make useless stuff; make the web fun again!"](https://makefrontendshitagain.party/)
 * ["It is not pencil-pushers and moneylenders who make games. It is the relentless passion of the workers that creates an art form capable of saying something true."](https://summereternal.com/#manifesto)
 * [Dumb down that "smart" phone a little.](https://www.reddit.com/r/dumbphones/comments/1awdfks/dumb_iphone_a_guide/)
-* https://www.inkandswitch.com/local-first/static/local-first.pdf
-* https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
-* https://www.reddit.com/r/offmychest/comments/2t9zu2/a_programmer_nope_just_a_data_entry_monkey/\
-* https://singhpr.medium.com/the-anti-agile-manifesto-8dae4cd83485
-* https://harmful.cat-v.org/software/
-* https://seirdy.one/meta/badges/#ideological-affinity-web-related
+* [Local-First Software: You Own Your Data, in spite of the Cloud](https://www.inkandswitch.com/local-first/static/local-first.pdf)
+* ["If you don't know how compilers work, then you don't know how computers work. If you're not 100% sure whether you know how compilers work, then you don't know how they work."](https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html)
+* [A programmer? Nope. Just a data entry monkey ](https://www.reddit.com/r/offmychest/comments/2t9zu2/a_programmer_nope_just_a_data_entry_monkey/)
+* [The Anti-Agile Manifesto](https://singhpr.medium.com/the-anti-agile-manifesto-8dae4cd83485)
+    * the overutilization of references is NOT co-signed
+* [All software sucks](https://harmful.cat-v.org/software/)
+* [Ideological affinity, web-related](https://seirdy.one/meta/badges/#ideological-affinity-web-related)
 
 ## utilities
 * [`bat`](https://github.com/sharkdp/bat) - better `cat`
