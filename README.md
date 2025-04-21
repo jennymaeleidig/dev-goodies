@@ -55,6 +55,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [cookie block](https://github.com/dibollinger/CookieBlock) - block tracking cookies
 * [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
 * [clear site cookies](https://addons.mozilla.org/en-US/firefox/addon/clear-site-cookies/) - 🍪
+* [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to be
 
 ## config
 * [iterm cfg](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/iterm/Default.json)
