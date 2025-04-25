@@ -33,10 +33,8 @@ Collection of Resources and Tools I use (typically on MacOS)
 ## env / pkg management
 * [homebrew](https://brew.sh/) - pkg mgmt
 * [macports](https://www.macports.org/) - build mac applications from source
-* [sdkman](https://sdkman.io/) - manage java versions
-* [`pyenv`](https://github.com/pyenv/pyenv) - manage python versions
+* [asdf](https://asdf-vm.com/) - multi-platform version / runtime manager
 * [`pipenv`](https://pipenv.pypa.io/en/latest/) - manage python envs / deps
-* [`nvm`](https://github.com/nvm-sh/nvm) - manage node versions
 
 ## browser extensions
 * [privacy badger](https://privacybadger.org/) - block cross site tracking
@@ -96,6 +94,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [musicbrainz picard](https://picard.musicbrainz.org/) - mp3 tagging
 * [pdfgear](https://www.pdfgear.com/) - pdf conversion
 * [app play midi](https://github.com/benwiggy/applaymidi) - lightweight midi player for macos
+* [czkawka](https://github.com/qarmin/czkawka) - duplicate file finder / remover
 
 ## game dev
 * [pico-8](https://www.lexaloffle.com/pico-8.php) - "hardware" contrained retro dev
