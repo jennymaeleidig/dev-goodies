@@ -11,8 +11,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [Local-First Software: You Own Your Data, in spite of the Cloud](https://www.inkandswitch.com/local-first/static/local-first.pdf)
 * ["If you don't know how compilers work, then you don't know how computers work. If you're not 100% sure whether you know how compilers work, then you don't know how they work."](https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html)
 * [A programmer? Nope. Just a data entry monkey ](https://www.reddit.com/r/offmychest/comments/2t9zu2/a_programmer_nope_just_a_data_entry_monkey/)
-* [The Anti-Agile Manifesto](https://singhpr.medium.com/the-anti-agile-manifesto-8dae4cd83485)
-    * the overutilization of references is NOT co-signed
+* [The Anti-Agile Manifesto](https://antiagilemanifesto.wordpress.com/)
 * [All software sucks](https://harmful.cat-v.org/software/)
 * [Ideological affinity, web-related](https://seirdy.one/meta/badges/#ideological-affinity-web-related)
 
