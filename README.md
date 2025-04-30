@@ -36,11 +36,11 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [asdf](https://asdf-vm.com/) - multi-platform version / runtime manager
 * [`pipenv`](https://pipenv.pypa.io/en/latest/) - manage python envs / deps
 
-## browser extensions
+## browser extensions (firefox desktop)
 * [privacy badger](https://privacybadger.org/) - block cross site tracking
 * [ublock origin](https://ublockorigin.com/) - block ads and popups
     * [ublock ai blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
-* [dark mode everywhere](https://www.petasittek.com/dark-mode-everywhere/) - 🌙
+* [ultimadark](https://github.com/ThomazPom/Moz-Ext-UltimaDark) - 🌙
 * [bitwarden](https://bitwarden.com/) - password manager
 * [removepaywalls.com](https://removepaywalls.com/) - remove paywals and archive webpages
 * [facebook container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) - 🚫 meta 
@@ -54,6 +54,18 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
 * [clear site cookies](https://addons.mozilla.org/en-US/firefox/addon/clear-site-cookies/) - 🍪
 * [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to be
+* [control panel for youtube](https://soitis.dev/control-panel-for-youtube) - remove annoying parts of youtube's ui 
+* [nitter redirect](https://github.com/SimonBrazell/nitter-redirect) - redirect twitter links to nitter!
+* [old reddit redirect](https://github.com/tom-james-watson/old-reddit-redirect) - remove new reddit redesign 
+
+## browser extensions (safari mobile)
+* [ghostery](https://www.ghostery.com/) - ad blocker & tracker disarmer
+* [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
+* [opentok](https://apps.apple.com/us/app/opentok-for-safari/id6708240044) - watch tiktoks in your browser
+* [sink it for reddit](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - make reddit web usable
+* [sink it for twitter](https://apps.apple.com/us/app/sink-it-for-twitter-x/id6464326394) - make twitter web usable
+* [blacked](https://apps.apple.com/id/app/blacked-dark-reader-for-safari/id1635320724) - website dark mode enabler
+* [querydial](https://querydial.com/) - replace / extend default search engine in safari
 
 ## config
 * [iterm cfg](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/iterm/Default.json)
@@ -82,6 +94,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 * [unnatural scroll wheels](https://github.com/ther0n/UnnaturalScrollWheels) - adaptive macos touchpad / mouse scrolling
 * [radio silence](https://radiosilenceapp.com/) - block pesky apps from all network communication
 * [rapid api](https://paw.cloud/) - full featured free api client
+* [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
 
 ## multimedia
 * [swinsian](https://swinsian.com/) - old itunes style music library management
