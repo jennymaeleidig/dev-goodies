@@ -14,9 +14,6 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 # bat theme
 export BAT_THEME="Monokai Pro"
 
-# zoxide
-eval "$(zoxide init bash)"
-
 # mac ports
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 
@@ -36,3 +33,6 @@ alias cdi="zi"
 # asdf
 export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 . <(asdf completion bash)
+
+# zoxide
+eval "$(zoxide init bash)"
