@@ -61,6 +61,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [control panel for youtube](https://soitis.dev/control-panel-for-youtube) - remove annoying parts of youtube's ui
 - [nitter redirect](https://github.com/SimonBrazell/nitter-redirect) - redirect twitter links to nitter!
 - [old reddit redirect](https://github.com/tom-james-watson/old-reddit-redirect) - remove new reddit redesign
+- [simple login](simplelogin.io) - email alias service
 
 ## browser extensions (safari mobile)
 
