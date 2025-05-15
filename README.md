@@ -57,11 +57,12 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [cookie block](https://github.com/dibollinger/CookieBlock) - block tracking cookies
 - [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
 - [clear site cookies](https://addons.mozilla.org/en-US/firefox/addon/clear-site-cookies/) - 🍪
-- [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to be
 - [control panel for youtube](https://soitis.dev/control-panel-for-youtube) - remove annoying parts of youtube's ui
 - [nitter redirect](https://github.com/SimonBrazell/nitter-redirect) - redirect twitter links to nitter!
 - [old reddit redirect](https://github.com/tom-james-watson/old-reddit-redirect) - remove new reddit redesign
 - [simple login](simplelogin.io) - email alias service
+- [stylus](https://github.com/openstyles/stylus/) - custom css
+- [tampermonkey](https://www.tampermonkey.net/) - run custom scripts to clean up sites
 
 ## browser extensions (safari mobile)
 
@@ -72,6 +73,27 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [sink it for twitter](https://apps.apple.com/us/app/sink-it-for-twitter-x/id6464326394) - make twitter web usable
 - [noir](https://getnoir.app/) - website dark mode enabler
 - [querydial](https://querydial.com/) - replace / extend default search engine in safari
+- [control panel for youtube](https://apps.apple.com/us/app/control-panel-for-youtube/id6478456678) - remove annoying parts of youtube's ui
+- [tampermonkey](https://apps.apple.com/us/app/tampermonkey/id6738342400) - run custom scripts to clean up sites
+- [makeover](https://apps.apple.com/us/app/makeover-custom-css/id1602361167) - custom css
+
+## Tampermonkey Scripts / custom css
+- [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
+- [remove-instagram-unfollowed-content.js](https://gist.github.com/jcguu95/41681b9b5deafe1ba6cbd1b7cc1f1af7) - 🚫 meta
+- [remove-facebook-unfollowed-content.js](https://gist.github.com/jcguu95/60c757f806e43b12c723f3b1f23d14d1) - 🚫 meta
+- [remove-facebook-feeds.js](https://gist.github.com/jcguu95/dbb61efe9f66543b1203f6bab2434b21) - 🚫 meta
+- remove unwanted discord items
+  ```css
+  [data-list-item-id*="__nitro"] {
+    display: none;
+  }
+  [data-list-item-id*="__shop"] {
+      display: none;
+  }
+  [aria-label="Send a gift"] {
+      display: none;
+  }
+  ```
 
 ## config
 
