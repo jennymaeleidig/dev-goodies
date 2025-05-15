@@ -50,7 +50,6 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [facebook container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) - 🚫 meta
 - [clearurls](https://github.com/ClearURLs/Addon) - remove tracking info in url query params
 - [english popup dictionary](https://krv5vignesh.github.io/) - 📖
-- [youtube search fixer](https://phoennix.gitlab.io/youtubesearchfix/) - filter and streamline youtube search
 - [batchcamp](https://deejay.tools/) - mass download from your bandcamp collection
 - [imagus](https://www.reddit.com/r/imagus/) - hover image to zoom
 - [save webp as](https://github.com/jscher2000/Save-webP-as-extension) - save webp files as png / jpg
@@ -63,6 +62,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [simple login](simplelogin.io) - email alias service
 - [stylus](https://github.com/openstyles/stylus/) - custom css
 - [tampermonkey](https://www.tampermonkey.net/) - run custom scripts to clean up sites
+- [social focus](https://socialfocus.app/) - remove unwanted social media elements
 
 ## browser extensions (safari mobile)
 
@@ -76,6 +76,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [control panel for youtube](https://apps.apple.com/us/app/control-panel-for-youtube/id6478456678) - remove annoying parts of youtube's ui
 - [tampermonkey](https://apps.apple.com/us/app/tampermonkey/id6738342400) - run custom scripts to clean up sites
 - [makeover](https://apps.apple.com/us/app/makeover-custom-css/id1602361167) - custom css
+- [unscrollable]([https://socialfocus.app/](https://apps.apple.com/us/app/unscrollable/id6744239905)) - remove unwanted social media elements
 
 ## Tampermonkey Scripts / custom css
 - [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
