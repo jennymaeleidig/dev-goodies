@@ -76,7 +76,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [control panel for youtube](https://apps.apple.com/us/app/control-panel-for-youtube/id6478456678) - remove annoying parts of youtube's ui
 - [tampermonkey](https://apps.apple.com/us/app/tampermonkey/id6738342400) - run custom scripts to clean up sites
 - [makeover](https://apps.apple.com/us/app/makeover-custom-css/id1602361167) - custom css
-- [unscrollable]([https://socialfocus.app/](https://apps.apple.com/us/app/unscrollable/id6744239905)) - remove unwanted social media elements
+- [unscrollable](https://apps.apple.com/us/app/unscrollable/id6744239905) - remove unwanted social media elements
 
 ## Tampermonkey Scripts / custom css
 - [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
