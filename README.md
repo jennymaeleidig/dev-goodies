@@ -83,18 +83,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [remove-instagram-unfollowed-content.js](https://gist.github.com/jcguu95/41681b9b5deafe1ba6cbd1b7cc1f1af7) - 🚫 meta
 - [remove-facebook-unfollowed-content.js](https://gist.github.com/jcguu95/60c757f806e43b12c723f3b1f23d14d1) - 🚫 meta
 - [remove-facebook-feeds.js](https://gist.github.com/jcguu95/dbb61efe9f66543b1203f6bab2434b21) - 🚫 meta
-- remove unwanted discord items
-  ```css
-  [data-list-item-id*="__nitro"] {
-    display: none;
-  }
-  [data-list-item-id*="__shop"] {
-      display: none;
-  }
-  [aria-label="Send a gift"] {
-      display: none;
-  }
-  ```
+- [remove unwanted discord items](https://gist.github.com/DubyaDude/1ee0e8c218a22883721635dfae3e022c) - css cleanup
 
 ## config
 
