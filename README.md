@@ -77,8 +77,10 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [tampermonkey](https://apps.apple.com/us/app/tampermonkey/id6738342400) - run custom scripts to clean up sites
 - [makeover](https://apps.apple.com/us/app/makeover-custom-css/id1602361167) - custom css
 - [unscrollable](https://apps.apple.com/us/app/unscrollable/id6744239905) - remove unwanted social media elements
+- [And a Dinosaur](https://andadinosaur.com/apps) - so many goodies!
 
 ## Tampermonkey Scripts / custom css
+
 - [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
 - [remove-instagram-unfollowed-content.js](https://gist.github.com/jcguu95/41681b9b5deafe1ba6cbd1b7cc1f1af7) - 🚫 meta
 - [remove-facebook-unfollowed-content.js](https://gist.github.com/jcguu95/60c757f806e43b12c723f3b1f23d14d1) - 🚫 meta
