@@ -56,7 +56,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [cookie block](https://github.com/dibollinger/CookieBlock) - block tracking cookies
 - [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
 - [clear site cookies](https://addons.mozilla.org/en-US/firefox/addon/clear-site-cookies/) - 🍪
-- [remove youtube shorts](https://github.com/raven0230/Remove-Youtube-Shorts) - do it!
+- [control panel for youtube](https://soitis.dev/control-panel-for-youtube) - remove annoying parts of youtube's ui
 - [nitter redirect](https://github.com/SimonBrazell/nitter-redirect) - redirect twitter links to nitter!
 - [old reddit redirect](https://github.com/tom-james-watson/old-reddit-redirect) - remove new reddit redesign
 - [simple login](simplelogin.io) - email alias service
