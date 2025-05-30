@@ -31,6 +31,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [colima](https://github.com/abiosoft/colima) - docker desktop alternative
   - setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
 - [mojeek](https://www.mojeek.com/) - alternative search engine
+- [tabby]() - AI (i know, i know) powered tabe completion, free, entirely local, no telemetry
 
 ## env / pkg management
 
