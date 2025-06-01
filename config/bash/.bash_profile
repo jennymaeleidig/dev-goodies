@@ -65,7 +65,7 @@ alias grep="rg"
 alias ls="eza"
 alias cd="z"
 alias cdi="zi"
-alias start-tabby="tabby serve --device metal --model Qwen2.5-Coder-7B --chat-model Qwen2-1.5B-Instruct"
+alias start-tabby="tabby serve --device metal --model Qwen2.5-Coder-3B --chat-model Qwen2-1.5B-Instruct"
 
 # asdf
 export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
