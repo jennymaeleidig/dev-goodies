@@ -25,6 +25,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [`eza`](https://github.com/eza-community/eza) - better `ls`
 - [`zoxide`](https://github.com/ajeetdsouza/zoxide) - better `cd`
 - [oh my bash](https://ohmybash.nntoan.com/) - ulimate bash customization
+  - [bash 5 in macos](https://www.merikan.com/2019/04/upgrade-to-bash-5-in-macos/)
 - [bash-completion](https://formulae.brew.sh/formula/bash-completion) - bash prompt completion (good for git branches)
 - [neovim](https://neovim.io/) - lightweight text editor of choice
 - [vim plug](https://github.com/junegunn/vim-plug) - lightweight plugin manager for nvim
