@@ -74,8 +74,6 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [sink it for reddit](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - make reddit web usable
 - [sink it for twitter](https://apps.apple.com/us/app/sink-it-for-twitter-x/id6464326394) - make twitter web usable
 - [noir](https://getnoir.app/) - website dark mode enabler
-- [querydial](https://querydial.com/) - replace / extend default search engine in safari
-- [control panel for youtube](https://apps.apple.com/us/app/control-panel-for-youtube/id6478456678) - remove annoying parts of youtube's ui
 - [tampermonkey](https://apps.apple.com/us/app/tampermonkey/id6738342400) - run custom scripts to clean up sites
 - [makeover](https://apps.apple.com/us/app/makeover-custom-css/id1602361167) - custom css
 - [unscrollable](https://apps.apple.com/us/app/unscrollable/id6744239905) - remove unwanted social media elements
