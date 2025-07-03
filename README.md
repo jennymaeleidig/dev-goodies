@@ -32,7 +32,11 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [colima](https://github.com/abiosoft/colima) - docker desktop alternative
   - setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
 - [mojeek](https://www.mojeek.com/) - alternative search engine
+<<<<<<< HEAD
 - [tabby]() - AI (i know, i know) powered tab completion, free, entirely local, no telemetry
+=======
+- [void](https://voideditor.com/) - IDE (vs-code) alternative with customizable AI (i know, i know) integration
+>>>>>>> 2bab521 (add void)
 
 ## env / pkg management
 
@@ -81,7 +85,6 @@ Collection of Resources and Tools I use (typically on MacOS)
 
 ## Tampermonkey Scripts / custom css
 
-- [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
 - [remove-instagram-unfollowed-content.js](https://gist.github.com/jcguu95/41681b9b5deafe1ba6cbd1b7cc1f1af7) - 🚫 meta
 - [remove-facebook-unfollowed-content.js](https://gist.github.com/jcguu95/60c757f806e43b12c723f3b1f23d14d1) - 🚫 meta
 - [remove-facebook-feeds.js](https://gist.github.com/jcguu95/dbb61efe9f66543b1203f6bab2434b21) - 🚫 meta
@@ -144,8 +147,9 @@ Collection of Resources and Tools I use (typically on MacOS)
   - ~~resources~~ [Coming Soon]
 - [playdate pulp](https://play.date/pulp/) - in browser, low code development for playdate
 
-### other usefull lil' goodies
+### other useful and fun lil' goodies
 
 - [textmate theme editor](https://tmtheme-editor.glitch.me) - 🎨
 - [colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - cross platform theme converter
 - [easy opt outs](https://easyoptouts.com/) - scrub unwanted PII from the web
+- [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to

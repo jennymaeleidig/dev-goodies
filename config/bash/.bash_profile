@@ -7,6 +7,7 @@ export BASH_SILENCE_DEPRECATION_WARNING=1
 
 # brew
 eval "$(/opt/homebrew/bin/brew shellenv)"
+export PATH=/usr/local/bin:$PATH
 
 # bash completion
 [[ -r "/opt/homebrew/etc/profile.d/bash_completion.sh" ]] && . "/opt/homebrew/etc/profile.d/bash_completion.sh"
@@ -27,8 +28,6 @@ alias hg="history | grep"
 alias cat="bat" 
 alias grep="rg"
 alias ls="eza"
-alias cd="z"
-alias cdi="zi"
 
 # asdf
 export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
@@ -73,6 +72,9 @@ export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 
 # Load Angular CLI autocompletion.
 source <(ng completion script)
+
+#flash player
+export FLEX_HOME="/Users/jennyleidig/Documents/Adobe/Flash/apache-flex-4.16.1-air-51.1.3.12/apache-flex-sdk-4.16.1-bin"
 
 # zoxide
 eval "$(zoxide init bash)"
