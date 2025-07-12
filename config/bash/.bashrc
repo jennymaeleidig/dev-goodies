@@ -4,31 +4,6 @@ case $- in
     *) return;;
 esac
 
-# Path to your oh-my-bash installation.
-export OSH='/Users/jennyleidig/.oh-my-bash'
-
-OSH_THEME="ht"
-
-OMB_USE_SUDO=true
-
-completions=(
-  git
-  composer
-  ssh
-)
-
-aliases=(
-  general
-)
-
-plugins=(
-  git
-  bashmarks
-)
-
-
-source "$OSH"/oh-my-bash.sh
-
 # User configuration
 
 # remove switch to zsh warning
@@ -57,6 +32,8 @@ alias hg="history | grep"
 alias cat="bat" 
 alias grep="rg"
 alias ls="eza"
+alias cd="z"
+alias cdi="zi"
 
 # asdf
 export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
@@ -78,11 +55,30 @@ export FLEX_HOME="/Users/jennyleidig/Documents/Adobe/Flash/apache-flex-4.16.1-ai
 #expose docker to colima
 export DOCKER_HOST="unix://$HOME/.colima/docker.sock"
 
-# zoxide
-eval "$(zoxide init --cmd cd bash)"
 
+# oh my bash
 
+# Path to your oh-my-bash installation.
+export OSH='/Users/jennyleidig/.oh-my-bash'
 
+OSH_THEME="ht"
 
+OMB_USE_SUDO=true
 
+completions=(
+  git
+  composer
+  ssh
+)
 
+aliases=(
+  general
+)
+
+plugins=(
+  git
+  bashmarks
+  zoxide
+)
+
+source "$OSH"/oh-my-bash.sh
