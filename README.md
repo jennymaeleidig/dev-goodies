@@ -32,11 +32,10 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [colima](https://github.com/abiosoft/colima) - docker desktop alternative
   - setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
 - [mojeek](https://www.mojeek.com/) - alternative search engine
-<<<<<<< HEAD
-- [tabby]() - AI (i know, i know) powered tab completion, free, entirely local, no telemetry
-=======
-- [void](https://voideditor.com/) - IDE (vs-code) alternative with customizable AI (i know, i know) integration
->>>>>>> 2bab521 (add void)
+- [cline]() - coding agent
+  - pair with Google Gemini
+- [continue](https://continue.dev/) - code completion
+  - pair with [Codestral](https://mistral.ai/)
 
 ## env / pkg management
 
