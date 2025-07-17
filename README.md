@@ -120,7 +120,8 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [radio silence](https://radiosilenceapp.com/) - block pesky apps from all network communication
 - [rapid api](https://paw.cloud/) - full featured free api client
 - [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
-
+- [hidden](https://github.com/dwarvesf/hidden) - hide unwanted items from the macos toolbar
+  
 ## multimedia
 
 - [swinsian](https://swinsian.com/) - old itunes style music library management
