@@ -166,3 +166,5 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [easy opt outs](https://easyoptouts.com/) - scrub unwanted PII from the web
 - [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
 - [monokai for aesperite](https://github.com/el-falso/monaki-theme) - 😎
+- [coder](https://coder.com/) - unified remote, self-hosted dev environment
+  - [linuxserver.io code-server](https://docs.linuxserver.io/images/docker-code-server/) - web based vscode 
