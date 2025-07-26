@@ -121,6 +121,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [rapid api](https://paw.cloud/) - full featured free api client
 - [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
 - [hidden](https://github.com/dwarvesf/hidden) - hide unwanted items from the macos toolbar
+- [grandperspective](https://formulae.brew.sh/cask/grandperspective#default) - windirstat but mac!
   
 ## multimedia
 
