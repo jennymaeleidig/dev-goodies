@@ -119,9 +119,9 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [unnatural scroll wheels](https://github.com/ther0n/UnnaturalScrollWheels) - adaptive macos touchpad / mouse scrolling
 - [radio silence](https://radiosilenceapp.com/) - block pesky apps from all network communication
 - [rapid api](https://paw.cloud/) - full featured free api client
-- [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
 - [hidden](https://github.com/dwarvesf/hidden) - hide unwanted items from the macos toolbar
 - [grandperspective](https://formulae.brew.sh/cask/grandperspective#default) - windirstat but mac!
+- [pz7ip](https://p7zip.sourceforge.net/) - 7zip for unix based systems
   
 ## multimedia
 
