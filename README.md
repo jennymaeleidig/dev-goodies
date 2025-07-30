@@ -33,7 +33,7 @@ Collection of Resources and Tools I use (typically on MacOS)
   - setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
 - [mojeek](https://www.mojeek.com/) - alternative search engine
 - [cline](https://cline.bot/) - coding agent
-  - pair with Google Gemini
+  - pair with Model of Choice. See: [LocalLlama](https://old.reddit.com/r/LocalLLaMA/)
 - [continue](https://continue.dev/) - code completion
   - pair with [Codestral](https://mistral.ai/)
 
