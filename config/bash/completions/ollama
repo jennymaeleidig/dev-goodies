@@ -1,0 +1,45 @@
+_ollama_completion() {
+  local cur prev words cword
+  COMPREPLY=()
+  # Get current and previous words
+  cur="${COMP_WORDS[COMP_CWORD]}"
+  prev="${COMP_WORDS[COMP_CWORD-1]}"
+  # Main commands
+  local commands="serve create show run stop pull push list cp rm help version"
+  # Get available models if ollama is installed
+  local models=""
+  if command -v ollama &> /dev/null; then
+    models=$(ollama list --format "{{.Name}}" 2>/dev/null | tr '\n' ' ')
+  fi
+  case $COMP_CWORD in
+  1)
+    # First argument - command
+    COMPREPLY=($(compgen -W "$commands" -- "$cur"))
+    ;;
+  2)
+    # Second argument - model name or options
+    case ${COMP_WORDS[1]} in
+    pull|push|run|cp|rm)
+      COMPREPLY=($(compgen -W "$models" -- "$cur"))
+      ;;
+    serve)
+      local serve_options="--host --port"
+      if [[ $cur == -* ]]; then
+        COMPREPLY=($(compgen -W "$serve_options" -- "$cur"))
+      fi
+      ;;
+    esac
+    ;;
+  *)
+    # For other arguments, complete with models if applicable
+    case ${COMP_WORDS[1]} in
+    pull|push|run|cp|rm)
+      COMPREPLY=($(compgen -W "$models" -- "$cur"))
+      ;;
+    esac
+    ;;
+  esac
+}
+
+# Register the completion function
+complete -F _ollama_completion ollama

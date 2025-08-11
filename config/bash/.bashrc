@@ -13,6 +13,9 @@ export BASH_SILENCE_DEPRECATION_WARNING=1
 eval "$(/opt/homebrew/bin/brew shellenv)"
 export PATH=/usr/local/bin:$PATH
 
+#fzf
+set rtp+=/opt/homebrew/opt/fzf
+
 # bash completion
 [[ -r "/opt/homebrew/etc/profile.d/bash_completion.sh" ]] && . "/opt/homebrew/etc/profile.d/bash_completion.sh"
 

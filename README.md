@@ -32,10 +32,9 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [colima](https://github.com/abiosoft/colima) - docker desktop alternative
   - setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
 - [mojeek](https://www.mojeek.com/) - alternative search engine
-- [cline](https://cline.bot/) - coding agent
-  - pair with Model of Choice. See: [LocalLlama](https://old.reddit.com/r/LocalLLaMA/)
-- [continue](https://continue.dev/) - code completion
+- [continue](https://continue.dev/) - code completion / ai agent within vscode
   - pair with [Codestral](https://mistral.ai/)
+  - ~~extended setup coming soon~~
 
 ## env / pkg management
 
@@ -115,14 +114,13 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [better display](https://github.com/waydabber/BetterDisplay) - highly functional display configuration
   - see [this](https://github.com/waydabber/BetterDisplay/wiki/Eye-care:-prevent-PWM-and-or-temporal-dithering) article for further config
 - [rectangle](https://rectangleapp.com/) - better window resizer
-- [redquits](http://carsten-mielke.com/redquits.html) - actually close an application
 - [unnatural scroll wheels](https://github.com/ther0n/UnnaturalScrollWheels) - adaptive macos touchpad / mouse scrolling
 - [radio silence](https://radiosilenceapp.com/) - block pesky apps from all network communication
 - [rapid api](https://paw.cloud/) - full featured free api client
-- [hidden](https://github.com/dwarvesf/hidden) - hide unwanted items from the macos toolbar
-- [grandperspective](https://formulae.brew.sh/cask/grandperspective#default) - windirstat but mac!
-- [pz7ip](https://p7zip.sourceforge.net/) - 7zip for unix based systems
-  
+- [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
+- [stats](https://github.com/exelban/stats) - macos resource monitor
+- [bartender](https://macbartender.com) - much needed taskbar management
+
 ## multimedia
 
 - [swinsian](https://swinsian.com/) - old itunes style music library management
@@ -168,4 +166,4 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
 - [monokai for aesperite](https://github.com/el-falso/monaki-theme) - 😎
 - [coder](https://coder.com/) - unified remote, self-hosted dev environment
-  - [linuxserver.io code-server](https://docs.linuxserver.io/images/docker-code-server/) - web based vscode 
+  - [linuxserver.io code-server](https://docs.linuxserver.io/images/docker-code-server/) - web based vscode
