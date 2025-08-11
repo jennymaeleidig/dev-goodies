@@ -33,8 +33,7 @@ Collection of Resources and Tools I use (typically on MacOS)
   - setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
 - [mojeek](https://www.mojeek.com/) - alternative search engine
 - [continue](https://continue.dev/) - code completion / ai agent within vscode
-  - pair with [Codestral](https://mistral.ai/)
-  - ~~extended setup coming soon~~
+  - setup gist [here](https://gist.github.com/jennymaeleidig/30bed561cb45368e5bf3fb7cf1f43711)
 
 ## env / pkg management
 
