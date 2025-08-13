@@ -118,7 +118,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [rapid api](https://paw.cloud/) - full featured free api client
 - [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
 - [stats](https://github.com/exelban/stats) - macos resource monitor
-- [bartender](https://macbartender.com) - much needed taskbar management
+- [hidden-bar](https://github.com/dwarvesf/hidden) - much needed taskbar management
 
 ## multimedia
 
