@@ -40,6 +40,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [macports](https://www.macports.org/) - build mac applications from source
 - [asdf](https://asdf-vm.com/) - multi-platform version / runtime manager
 - [`pipenv`](https://pipenv.pypa.io/en/latest/) - manage python envs / deps
+  - Really I should switch to [uv](https://github.com/astral-sh/uv). It doesnt have a lot of professional adoption yet though...
 
 ## browser extensions (firefox desktop)
 
