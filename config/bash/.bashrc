@@ -58,6 +58,11 @@ export FLEX_HOME="/Users/jennyleidig/Documents/Adobe/Flash/apache-flex-4.16.1-ai
 #expose docker to colima
 export DOCKER_HOST="unix://$HOME/.colima/docker.sock"
 
+# qdrant
+alias qdrant="docker-compose --file=$HOME/.roo/indexing/qdrant/docker-compose.yaml up -d"
+
+#roo code shell integration
+[[ "$TERM_PROGRAM" == "vscode" ]] && . "$(code --locate-shell-integration-path bash)"
 
 # oh my bash
 
