@@ -167,3 +167,4 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [configure multiple github ssh keys on the same machine](https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9) - useful for personal / work
 - [coder](https://coder.com/) - unified remote, self-hosted dev environment
   - [linuxserver.io code-server](https://docs.linuxserver.io/images/docker-code-server/) - web based vscode
+- [ocr and tts](https://speechcentral.net/) - reads those annoying textbooks for you!
