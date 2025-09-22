@@ -156,6 +156,7 @@ Collection of Resources and Tools I use (typically on MacOS)
   - [Adobe Flex and Adobe Air SDK](https://joshblog.net/2024/how-to-install-apache-flex-with-adobe-air-from-harman/) - Flex 4.16.1 && Air 51.1.3.12
   - [Adobe Flash Markdown Archive](https://gist.github.com/joshtynjala/77aebc21ce9d206b0b82b6330d717461) - bible
   - [ActionScript VS Code Plugin](https://github.com/BowlerHatLLC/vscode-as3mxml) - AS3/MXML support for VS Code
+  - [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) - flash decompiler
 
 ### other useful and fun lil' goodies
 
