@@ -158,6 +158,16 @@ Collection of Resources and Tools I use (typically on MacOS)
   - [ActionScript VS Code Plugin](https://github.com/BowlerHatLLC/vscode-as3mxml) - AS3/MXML support for VS Code
   - [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) - flash decompiler
 
+### Ultra Swag Secret Windows Section
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat)
+- [Winget CLI](https://github.com/microsoft/winget-cli)
+  - useful [repo hub](https://winget.run/)
+- [EdgeRemover](https://github.com/he3als/EdgeRemover)
+  - [See also](https://github.com/ShadowWhisperer/Remove-MS-Edge)
+- [StartAllBack](https://www.startallback.com/)
+- [Twinkle Tray](https://twinkletray.com/)
+- [Power Toys](https://github.com/microsoft/PowerToys)
+
 ### other useful and fun lil' goodies
 
 - [textmate theme editor](https://tmtheme-editor.glitch.me) - 🎨
