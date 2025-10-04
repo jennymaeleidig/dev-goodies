@@ -167,6 +167,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [StartAllBack](https://www.startallback.com/)
 - [Twinkle Tray](https://twinkletray.com/)
 - [Power Toys](https://github.com/microsoft/PowerToys)
+- [Left Sider](https://www.vinstartheme.com/leftsider/) - IDK if this one works anymore
 
 ### other useful and fun lil' goodies
 
