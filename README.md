@@ -102,6 +102,7 @@ Collection of Resources and Tools I use (typically on MacOS)
   - [iterm](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/iterm/Monokai_Pro.itermcolors)
   - [vscode](https://monokai.pro/vscode)
   - [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro)
+  - [discord](https://github.com/jennymaeleidig/discord-monokai-pro)
 - [commitmono](https://commitmono.com/) - nuetral monospace [font](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/font/CommitMonoV143.zip) for dev
 - [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox_material_dark_yellow/) - gruvbox_material_dark_yellow
 - [ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - bash prompt, shouts out to [harrison](https://github.com/HarrisonGagnon)
@@ -119,6 +120,8 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
 - [stats](https://github.com/exelban/stats) - macos resource monitor
 - [hidden-bar](https://github.com/dwarvesf/hidden) - much needed taskbar management
+- [dorion](https://github.com/SpikeHD/Dorion) - discord front end
+  - get custom plugins and more [here](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
 
 ## multimedia
 
