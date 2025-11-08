@@ -106,6 +106,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [commitmono](https://commitmono.com/) - nuetral monospace [font](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/font/CommitMonoV143.zip) for dev
 - [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox_material_dark_yellow/) - gruvbox_material_dark_yellow
 - [ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - bash prompt, shouts out to [harrison](https://github.com/HarrisonGagnon)
+- https://github.com/aspauldingcode/apple-sharpener
 
 ## applications
 
@@ -171,6 +172,13 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [Twinkle Tray](https://twinkletray.com/)
 - [Power Toys](https://github.com/microsoft/PowerToys)
 - [Left Sider](https://www.vinstartheme.com/leftsider/) - IDK if this one works anymore
+
+# IOS Sideloaded
+- sideloadly
+- https://github.com/whoeevee/EeveeSpotifyReborn
+- https://github.com/dayanch96/YTMusicUltimate
+- https://github.com/YTLitePlus/YTLitePlus?tab=readme-ov-file
+- https://github.com/SoCuul/SCInsta?tab=readme-ov-file
 
 ### other useful and fun lil' goodies
 
