@@ -44,8 +44,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 
 ## browser extensions (firefox desktop)
 
-- [privacy badger](https://privacybadger.org/) - block cross site tracking
-- [ublock origin](https://ublockorigin.com/) - block ads and popups
+- [adnauseam](https://adnauseam.io/) - block ads, trackers, and popups
   - [ublock ai blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 - [ultimadark](https://github.com/ThomazPom/Moz-Ext-UltimaDark) - 🌙
 - [bitwarden](https://bitwarden.com/) - password manager
