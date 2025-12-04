@@ -37,8 +37,9 @@ Collection of Resources and Tools I use (typically on MacOS)
 ## env / pkg management
 
 - [homebrew](https://brew.sh/) - pkg mgmt
-- [macports](https://www.macports.org/) - build mac applications from source
+- [macports](https://www.macports.org/) - build mac applications from source (aesperite is free this way)
 - [asdf](https://asdf-vm.com/) - multi-platform version / runtime manager
+  - might want to check out [mise](https://github.com/jdx/mise)
 - [`pipenv`](https://pipenv.pypa.io/en/latest/) - manage python envs / deps
   - Really I should switch to [uv](https://github.com/astral-sh/uv). It doesnt have a lot of professional adoption yet though...
 
@@ -59,25 +60,12 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
 - [clear site cookies](https://addons.mozilla.org/en-US/firefox/addon/clear-site-cookies/) - 🍪
 - [control panel for youtube](https://soitis.dev/control-panel-for-youtube) - remove annoying parts of youtube's ui
-- [nitter redirect](https://github.com/SimonBrazell/nitter-redirect) - redirect twitter links to nitter!
-- [old reddit redirect](https://github.com/tom-james-watson/old-reddit-redirect) - remove new reddit redesign
+- [nitter redirect](https://github.com/SimonBrazell/nitter-redirect) - redirect twitter links to [nitter](https://nitter.space/)!
+- [old reddit redirect](https://github.com/tom-james-watson/old-reddit-redirect) - remove 'new' reddit redesign
 - [simple login](simplelogin.io) - email alias service
 - [stylus](https://github.com/openstyles/stylus/) - custom css
 - [tampermonkey](https://www.tampermonkey.net/) - run custom scripts to clean up sites
 - [social focus](https://socialfocus.app/) - remove unwanted social media elements
-
-## browser extensions (safari mobile)
-
-- [ghostery](https://www.ghostery.com/) - ad blocker & tracker disarmer
-- [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
-- [opentok](https://apps.apple.com/us/app/opentok-for-safari/id6708240044) - watch tiktoks in your browser
-- [sink it for reddit](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - make reddit web usable
-- [sink it for twitter](https://apps.apple.com/us/app/sink-it-for-twitter-x/id6464326394) - make twitter web usable
-- [noir](https://getnoir.app/) - website dark mode enabler
-- [tampermonkey](https://apps.apple.com/us/app/tampermonkey/id6738342400) - run custom scripts to clean up sites
-- [makeover](https://apps.apple.com/us/app/makeover-custom-css/id1602361167) - custom css
-- [unscrollable](https://apps.apple.com/us/app/unscrollable/id6744239905) - remove unwanted social media elements
-- [And a Dinosaur](https://andadinosaur.com/apps) - so many goodies!
 
 ## Tampermonkey Scripts / custom css
 
@@ -86,7 +74,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [remove-facebook-feeds.js](https://gist.github.com/jcguu95/dbb61efe9f66543b1203f6bab2434b21) - 🚫 meta
 - [remove unwanted discord items](https://gist.github.com/DubyaDude/1ee0e8c218a22883721635dfae3e022c) - css cleanup
 
-## config
+## config (updates sometimes??)
 
 - [iterm cfg](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/iterm/Default.json)
 - [mac system preferences](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/mac/Preferences.zip)
@@ -102,10 +90,11 @@ Collection of Resources and Tools I use (typically on MacOS)
   - [vscode](https://monokai.pro/vscode)
   - [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro)
   - [discord](https://github.com/jennymaeleidig/discord-monokai-pro)
+    - needs some updates til its perf
 - [commitmono](https://commitmono.com/) - nuetral monospace [font](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/font/CommitMonoV143.zip) for dev
 - [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox_material_dark_yellow/) - gruvbox_material_dark_yellow
 - [ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - bash prompt, shouts out to [harrison](https://github.com/HarrisonGagnon)
-- https://github.com/aspauldingcode/apple-sharpener
+- [apple-sharpener](https://github.com/aspauldingcode/apple-sharpener)
   - needed to update `/System/Volumes/Data/private/var/ammonia/core/tweaks/libapple_sharpener.dylib.blacklist` to include
 ```
 ls
@@ -142,18 +131,15 @@ Electron
 - [unnatural scroll wheels](https://github.com/ther0n/UnnaturalScrollWheels) - adaptive macos touchpad / mouse scrolling
 - [radio silence](https://radiosilenceapp.com/) - block pesky apps from all network communication
 - [rapid api](https://paw.cloud/) - full featured free api client
-- [the unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - multi-format extracter native to finder
 - [stats](https://github.com/exelban/stats) - macos resource monitor
-- [hidden-bar](https://github.com/dwarvesf/hidden) - much needed taskbar management
-- [dorion](https://github.com/SpikeHD/Dorion) - discord front end
-  - get custom plugins and more [here](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
+- [bartender](https://www.macbartender.com/) - much needed taskbar management
 
 ## multimedia
 
 - [swinsian](https://swinsian.com/) - old itunes style music library management
 - [audacity](https://www.audacityteam.org/) - audio editing
   - Note: remember to disable telemetry
-- [handbrake](https://handbrake.fr/) - video transcoder
+- [handbrake](https://handbrake.fr/) - video transcoder w/ gui
 - [yt-dlp](https://ytdl-org.github.io/youtube-dl/) - youtube / web video downloader
 - [fre:ac](https://github.com/enzo1982/freac) - free audio converter
 - [calibre](https://calibre-ebook.com/) - ebook library management
@@ -195,14 +181,12 @@ Electron
 - [StartAllBack](https://www.startallback.com/)
 - [Twinkle Tray](https://twinkletray.com/)
 - [Power Toys](https://github.com/microsoft/PowerToys)
-- [Left Sider](https://www.vinstartheme.com/leftsider/) - IDK if this one works anymore
 
 # IOS Sideloaded
-- sideloadly
-- https://github.com/whoeevee/EeveeSpotifyReborn
-- https://github.com/dayanch96/YTMusicUltimate
-- https://github.com/YTLitePlus/YTLitePlus?tab=readme-ov-file
-- https://github.com/SoCuul/SCInsta?tab=readme-ov-file
+- [sideloadly](https://sideloadly.io/)
+- [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn)
+- [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus?tab=readme-ov-file)
+- [SCInsta](https://github.com/SoCuul/SCInsta?tab=readme-ov-file)
 
 ### other useful and fun lil' goodies
 
@@ -216,3 +200,5 @@ Electron
   - [linuxserver.io code-server](https://docs.linuxserver.io/images/docker-code-server/) - web based vscode
 - [ocr and tts](https://speechcentral.net/) - reads those annoying textbooks for you!
 - [privacyguides](https://www.privacyguides.org/en/) - lock that biz down
+- [And a Dinosaur](https://andadinosaur.com/apps) - so many goodies!
+- [discord client encyclopedia](github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
