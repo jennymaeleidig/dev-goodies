@@ -16,6 +16,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [The Anti-Agile Manifesto](https://antiagilemanifesto.wordpress.com/)
 - [All software sucks](https://harmful.cat-v.org/software/)
 - [Ideological affinity, web-related](https://seirdy.one/meta/badges/#ideological-affinity-web-related)
+- [Jason Scheirer - Vingettes](https://www.jasonscheirer.com/weblog/vignettes/)
 
 ## utilities
 
