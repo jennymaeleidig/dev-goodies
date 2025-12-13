@@ -86,7 +86,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 ## style
 
 - [monokai pro](https://monokai.pro/) - objectively the best
-  - [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/bat/Monokai%20Proish.tmTheme)
+  - [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/bat/MonokaiPro.tmTheme)
   - [iterm](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/iterm/Monokai_Pro.itermcolors)
   - [vscode](https://monokai.pro/vscode)
   - [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro)
@@ -117,9 +117,12 @@ spawn-helper
 rmdir
 rg
 zoxide
-asdf
 node
 Electron
+which
+mise
+npm
+pico8
 ```
 
 ## applications
@@ -156,6 +159,8 @@ Electron
   - [more than 16 colors on screen](https://www.lexaloffle.com/bbs/?tid=38565)
   - [vector library](https://github.com/clowerweb/Lib-Pico8/blob/master/vectors.lua)
   - [load images as string assets](https://www.lexaloffle.com/bbs/?tid=38884)
+  - [language server](https://marketplace.visualstudio.com/items?itemName=PollywogGames.pico8-ls)
+  - [vscode runner](https://marketplace.visualstudio.com/items?itemName=Mesgegra.pico-8-toolkit)
 - [godot](https://godotengine.org/) - open source game engine
 - [love2d](https://love2d.org/) - free game engine in lua
   - [learn2love](https://rvagamejams.com/learn2love/) - guide by the lovely rvagamejams
@@ -203,3 +208,6 @@ Electron
 - [privacyguides](https://www.privacyguides.org/en/) - lock that biz down
 - [And a Dinosaur](https://andadinosaur.com/apps) - so many goodies!
 - [discord client encyclopedia](github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
+  - [better discord](https://betterdiscord.app/)
+  - [system color](https://github.com/MiniDiscordThemes/SystemColor?tab=readme-ov-file)
+  - [disblock origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)
