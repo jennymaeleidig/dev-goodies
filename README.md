@@ -95,35 +95,6 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [commitmono](https://commitmono.com/) - nuetral monospace [font](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/font/CommitMonoV143.zip) for dev
 - [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox_material_dark_yellow/) - gruvbox_material_dark_yellow
 - [ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - bash prompt, shouts out to [harrison](https://github.com/HarrisonGagnon)
-- [apple-sharpener](https://github.com/aspauldingcode/apple-sharpener)
-  - needed to update `/System/Volumes/Data/private/var/ammonia/core/tweaks/libapple_sharpener.dylib.blacklist` to include
-```
-ls
-git
-awk
-sed
-tail
-grep
-env
-bash
-sh
-hostname
-whoami
-uname
-dirname
-readlink
-path_helper
-spawn-helper
-rmdir
-rg
-zoxide
-node
-Electron
-which
-mise
-npm
-pico8
-```
 
 ## applications
 
