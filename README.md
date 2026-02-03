@@ -108,6 +108,7 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [rapid api](https://paw.cloud/) - full featured free api client
 - [stats](https://github.com/exelban/stats) - macos resource monitor
 - [bartender](https://www.macbartender.com/) - much needed taskbar management
+- [multitouch](https://multitouch.app/) - gestures for macos trackpad / magic mouse
 
 ## multimedia
 
