@@ -1,0 +1,25 @@
+## game dev
+
+- [pico-8](https://www.lexaloffle.com/pico-8.php) - "hardware" constrained retro dev
+  - [cheat sheet](<https://www.lexaloffle.com/media/13822/41_PICO-8%20Cheat%20Sheet%20(4k%20-%20Dark).png>)
+  - [more than 16 colors on screen](https://www.lexaloffle.com/bbs/?tid=38565)
+  - [vector library](https://github.com/clowerweb/Lib-Pico8/blob/master/vectors.lua)
+  - [load images as string assets](https://www.lexaloffle.com/bbs/?tid=38884)
+  - [language server](https://marketplace.visualstudio.com/items?itemName=PollywogGames.pico8-ls)
+  - [vscode runner](https://marketplace.visualstudio.com/items?itemName=Mesgegra.pico-8-toolkit)
+- [godot](https://godotengine.org/) - open source game engine
+- [love2d](https://love2d.org/) - free game engine in lua
+  - [learn2love](https://rvagamejams.com/learn2love/) - guide by the lovely rvagamejams
+- [playdate sdk](https://play.date/dev/) - develop for the [playdate](https://play.date/)
+  - [playdate pulp](https://play.date/pulp/) - in browser, low code development for playdate
+  - [lua finite state machine](https://github.com/kyleconroy/lua-state-machine?tab=readme-ov-file)
+  - [performance tips](https://old.reddit.com/r/PlaydateConsole/comments/vcgcxi/psa_for_devs_be_very_cautious_with_performance_if/)
+  - [Noble Engine](https://github.com/NobleRobot/NobleEngine) - micro framework
+  - [luaCATS](https://github.com/notpeter/playdate-luacats) - playdate sdk definitions for lua
+  - [coroutine basics](https://edw.is/how-to-implement-action-sequences-and-cutscenes/#coroutines-basics)
+- [ruffle](https://ruffle.rs/) - flash emulator
+  - [Adobe Flashkit Forum](https://board.flashkit.com/board/#) - useful guides
+  - [Adobe Flex and Adobe Air SDK](https://joshblog.net/2024/how-to-install-apache-flex-with-adobe-air-from-harman/) - Flex 4.16.1 && Air 51.1.3.12
+  - [Adobe Flash Markdown Archive](https://gist.github.com/joshtynjala/77aebc21ce9d206b0b82b6330d717461) - bible
+  - [ActionScript VS Code Plugin](https://github.com/BowlerHatLLC/vscode-as3mxml) - AS3/MXML support for VS Code
+  - [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) - flash decompiler

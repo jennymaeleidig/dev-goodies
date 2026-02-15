@@ -1,14 +1,11 @@
-local vim = vim
-local Plug = vim.fn['plug#']
+vim.cmd([[
+	call plug#begin()
 
-vim.call('plug#begin')
+	Plug 'loctvl842/monokai-pro.nvim'
 
-Plug('loctvl842/monokai-pro.nvim')
+	call plug#end()
 
-vim.call('plug#end')
+	colorscheme monokai-pro
+]])
 
-require("monokai-pro").setup({})
-
--- Color schemes should be loaded after plug#end().
--- We prepend it with 'silent!' to ignore errors when it's not yet installed.
-vim.cmd([[colorscheme monokai-pro]])
+require("config.lazy")

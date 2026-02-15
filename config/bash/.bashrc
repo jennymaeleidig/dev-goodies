@@ -20,7 +20,7 @@ set rtp+=/opt/homebrew/opt/fzf
 [[ -r "/opt/homebrew/etc/profile.d/bash_completion.sh" ]] && . "/opt/homebrew/etc/profile.d/bash_completion.sh"
 
 # bat theme
-export BAT_THEME="Monokai Pro"
+export BAT_THEME="MonokaiPro"
 
 # mac ports
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
@@ -37,13 +37,6 @@ alias grep="rg"
 alias ls="eza"
 alias cd="z"
 alias cdi="zi"
-
-# asdf
-export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
-. <(asdf completion bash)
-
-#java
-. ~/.asdf/plugins/java/set-java-home.bash
 
 #python
 export PATH="$HOME/.local/bin:$PATH"
@@ -64,6 +57,9 @@ alias qdrant="docker-compose --file=$HOME/.roo/indexing/qdrant/docker-compose.ya
 #roo code shell integration
 [[ "$TERM_PROGRAM" == "vscode" ]] && . "$(code --locate-shell-integration-path bash)"
 
+#mise
+eval "$(mise activate bash)"
+
 # oh my bash
 
 # Path to your oh-my-bash installation.
@@ -77,6 +73,7 @@ completions=(
   git
   composer
   ssh
+  mise
 )
 
 aliases=(
@@ -90,3 +87,12 @@ plugins=(
 )
 
 source "$OSH"/oh-my-bash.sh
+
+# pnpm
+export PNPM_HOME="/Users/jennyleidig/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
+export THEOS=~/theos
