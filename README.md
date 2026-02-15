@@ -33,13 +33,14 @@ Collection of Resources and Tools I use (typically on MacOS, common tools exclud
   - [bash completions](https://mise.jdx.dev/cli/completion.html)
 - [`pipenv`](https://pipenv.pypa.io/en/latest/)
   - Really I should switch to [uv](https://github.com/astral-sh/uv).
+- [`pnpm`](https://pnpm.io/)
 
 ## style
 
 - [monokai pro](https://monokai.pro/)
-  - [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/bat/MonokaiPro.tmTheme)
+  - [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bat/themes/MonokaiPro.tmTheme)
   - [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro)
-  - [opencode]()
+  - [opencode](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/opencode/monokai-pro.json)
 - [commitmono](https://commitmono.com/) - nuetral monospace font for dev
 - [ohmybash - ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - shouts out to [harrison](https://github.com/HarrisonGagnon)
   - [bash 5 in macos](https://www.merikan.com/2019/04/upgrade-to-bash-5-in-macos/)
@@ -49,6 +50,6 @@ Collection of Resources and Tools I use (typically on MacOS, common tools exclud
 - [configure multiple github ssh keys on the same machine](https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9) - useful multiple accounts
 - [privacyguides](https://www.privacyguides.org/en/) - lock that biz down
   - [easy opt outs](https://easyoptouts.com/) - scrub unwanted PII from the web
-- [ai coding agents]()
-- [game dev]()
-- [colima]() - docker desktop alternative
+- [ai coding agents](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/ai/ai-resources.md)
+- [game dev](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/game/game-dev.md)
+- [colima](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/colima/colima.md) - docker desktop alternative
