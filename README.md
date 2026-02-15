@@ -27,9 +27,6 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [`zoxide`](https://github.com/ajeetdsouza/zoxide) - better `cd`
 - [oh my bash](https://ohmybash.nntoan.com/) - ulimate bash customization
   - [bash 5 in macos](https://www.merikan.com/2019/04/upgrade-to-bash-5-in-macos/)
-- [bash-completion](https://formulae.brew.sh/formula/bash-completion) - bash prompt completion (good for git branches)
-- [neovim](https://neovim.io/) - lightweight text editor of choice
-- [vim plug](https://github.com/junegunn/vim-plug) - lightweight plugin manager for nvim
 - [colima](https://github.com/abiosoft/colima) - docker desktop alternative
   - setup [here](https://gist.github.com/jennymaeleidig/e44f0e57e810b0ef75a2c5c17ef03fa3)
 - [mojeek](https://www.mojeek.com/) - alternative search engine
@@ -53,19 +50,12 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [removepaywalls.com](https://removepaywalls.com/) - remove paywals and archive webpages
 - [facebook container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) - 🚫 meta
 - [clearurls](https://github.com/ClearURLs/Addon) - remove tracking info in url query params
-- [english popup dictionary](https://krv5vignesh.github.io/) - 📖
-- [batchcamp](https://deejay.tools/) - mass download from your bandcamp collection
-- [imagus](https://www.reddit.com/r/imagus/) - hover image to zoom
-- [save webp as](https://github.com/jscher2000/Save-webP-as-extension) - save webp files as png / jpg
 - [cookie block](https://github.com/dibollinger/CookieBlock) - block tracking cookies
 - [consent-o-matic](https://consentomatic.au.dk/) - remove cookie consent pop-up
 - [clear site cookies](https://addons.mozilla.org/en-US/firefox/addon/clear-site-cookies/) - 🍪
-- [control panel for youtube](https://soitis.dev/control-panel-for-youtube) - remove annoying parts of youtube's ui
 - [nitter redirect](https://github.com/SimonBrazell/nitter-redirect) - redirect twitter links to [nitter](https://nitter.space/)!
 - [old reddit redirect](https://github.com/tom-james-watson/old-reddit-redirect) - remove 'new' reddit redesign
 - [simple login](simplelogin.io) - email alias service
-- [stylus](https://github.com/openstyles/stylus/) - custom css
-- [tampermonkey](https://www.tampermonkey.net/) - run custom scripts to clean up sites
 - [social focus](https://socialfocus.app/) - remove unwanted social media elements
 
 ## Tampermonkey Scripts / custom css
@@ -73,55 +63,23 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [remove-instagram-unfollowed-content.js](https://gist.github.com/jcguu95/41681b9b5deafe1ba6cbd1b7cc1f1af7) - 🚫 meta
 - [remove-facebook-unfollowed-content.js](https://gist.github.com/jcguu95/60c757f806e43b12c723f3b1f23d14d1) - 🚫 meta
 - [remove-facebook-feeds.js](https://gist.github.com/jcguu95/dbb61efe9f66543b1203f6bab2434b21) - 🚫 meta
-- [remove unwanted discord items](https://gist.github.com/DubyaDude/1ee0e8c218a22883721635dfae3e022c) - css cleanup
-
-## config (updates sometimes??)
-
-- [iterm cfg](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/iterm/Default.json)
-- [mac system preferences](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/mac/Preferences.zip)
-- [`.bash_profile`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bash_profile)
-- [`.bashrc`](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/bash/.bashrc)
-- [vscode](https://github.com/jennymaeleidig/dev-goodies/blob/main/config/vs-code/Default.code-profile)
 
 ## style
 
 - [monokai pro](https://monokai.pro/) - objectively the best
   - [`bat`](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/bat/MonokaiPro.tmTheme)
-  - [iterm](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/iterm/Monokai_Pro.itermcolors)
-  - [vscode](https://monokai.pro/vscode)
   - [neovim](https://github.com/loctvl842/monokai-pro.nvim?tab=readme-ov-file#-pro)
-  - [discord](https://github.com/jennymaeleidig/discord-monokai-pro)
-    - needs some updates til its perf
 - [commitmono](https://commitmono.com/) - nuetral monospace [font](https://github.com/jennymaeleidig/dev-goodies/blob/main/style/font/CommitMonoV143.zip) for dev
-- [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox_material_dark_yellow/) - gruvbox_material_dark_yellow
 - [ht](https://github.com/ohmybash/oh-my-bash/wiki/Themes#ht) - bash prompt, shouts out to [harrison](https://github.com/HarrisonGagnon)
 
-## applications
+## misc. applications
 
-- [alttab](https://alt-tab-macos.netlify.app/) - more functional windows switching in macos
-- [lightshot](https://app.prntscr.com/en/index.html) - lightweight screenshot tool
 - [better display](https://github.com/waydabber/BetterDisplay) - highly functional display configuration
   - see [this](https://github.com/waydabber/BetterDisplay/wiki/Eye-care:-prevent-PWM-and-or-temporal-dithering) article for further config
-- [rectangle](https://rectangleapp.com/) - better window resizer
-- [unnatural scroll wheels](https://github.com/ther0n/UnnaturalScrollWheels) - adaptive macos touchpad / mouse scrolling
 - [radio silence](https://radiosilenceapp.com/) - block pesky apps from all network communication
-- [rapid api](https://paw.cloud/) - full featured free api client
-- [stats](https://github.com/exelban/stats) - macos resource monitor
-- [bartender](https://www.macbartender.com/) - much needed taskbar management
 - [multitouch](https://multitouch.app/) - gestures for macos trackpad / magic mouse
-
-## multimedia
-
-- [swinsian](https://swinsian.com/) - old itunes style music library management
-- [audacity](https://www.audacityteam.org/) - audio editing
-  - Note: remember to disable telemetry
-- [handbrake](https://handbrake.fr/) - video transcoder w/ gui
-- [yt-dlp](https://ytdl-org.github.io/youtube-dl/) - youtube / web video downloader
 - [fre:ac](https://github.com/enzo1982/freac) - free audio converter
-- [calibre](https://calibre-ebook.com/) - ebook library management
-- [musicbrainz picard](https://picard.musicbrainz.org/) - mp3 tagging
 - [pdfgear](https://www.pdfgear.com/) - pdf conversion
-- [app play midi](https://github.com/benwiggy/applaymidi) - lightweight midi player for macos
 - [czkawka](https://github.com/qarmin/czkawka) - duplicate file finder / remover
 
 ## game dev
@@ -164,21 +122,15 @@ Collection of Resources and Tools I use (typically on MacOS)
 - [sideloadly](https://sideloadly.io/)
 - [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn)
 - [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus?tab=readme-ov-file)
+- [YTMusicUltimate]()
+  - [add scrobbling](https://github.com/marioparaschiv/lastfm-yt-music?ref=blog.aspy.dev)
 - [SCInsta](https://github.com/SoCuul/SCInsta?tab=readme-ov-file)
 
 ### other useful and fun lil' goodies
 
-- [textmate theme editor](https://tmtheme-editor.glitch.me) - 🎨
-- [colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - cross platform theme converter
 - [easy opt outs](https://easyoptouts.com/) - scrub unwanted PII from the web
-- [blocky web](https://github.com/xyzeva/blocky-web) - make the web look like how it was designed to
-- [monokai for aesperite](https://github.com/el-falso/monaki-theme) - 😎
 - [configure multiple github ssh keys on the same machine](https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9) - useful for personal / work
-- [coder](https://coder.com/) - unified remote, self-hosted dev environment
-  - [linuxserver.io code-server](https://docs.linuxserver.io/images/docker-code-server/) - web based vscode
-- [ocr and tts](https://speechcentral.net/) - reads those annoying textbooks for you!
 - [privacyguides](https://www.privacyguides.org/en/) - lock that biz down
-- [And a Dinosaur](https://andadinosaur.com/apps) - so many goodies!
 - [discord client encyclopedia](github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
   - [better discord](https://betterdiscord.app/)
   - [system color](https://github.com/MiniDiscordThemes/SystemColor?tab=readme-ov-file)
