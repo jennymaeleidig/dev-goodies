@@ -62,15 +62,15 @@ ollama pull mxbai-embed-large:latest
 - Be sure to set up local codebase indexing [with Roo](https://docs.roocode.com/features/codebase-indexing#key-benefits)
   - Use `mxbai-embed-large:latest` as described above
     - Model Dimension is: `1024`
-  - I reccomend [this docker-compose approach](https://gist.github.com/jennymaeleidig/30bed561cb45368e5bf3fb7cf1f43711#file-qdrant-md) for Qdrant setup
+  - I reccomend [this docker-compose approach](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/ai/qdrant.md) for Qdrant setup
 
 ### Additional Tooling Configuration
 
 - [Fine tune](https://old.reddit.com/r/RooCode/comments/1mqv595/i_have_a_custom_context_editor_for_roo/) context saving via [custom commands](https://docs.roocode.com/features/slash-commands#creating-custom-commands)
-  - [`/save`](https://gist.github.com/jennymaeleidig/30bed561cb45368e5bf3fb7cf1f43711#file-save-md)
-  - [`/load`](https://gist.github.com/jennymaeleidig/30bed561cb45368e5bf3fb7cf1f43711#file-load-md)
-  - [`/pr-desc`](https://gist.github.com/jennymaeleidig/30bed561cb45368e5bf3fb7cf1f43711#file-pr-desc-md)
-    - use the output of [`branch-compare.sh`](https://gist.github.com/jennymaeleidig/30bed561cb45368e5bf3fb7cf1f43711#file-branch-compare-sh) as input
+  - [`/save`](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/ai/save.md)
+  - [`/load`](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/ai/load.md)
+  - [`/pr-desc`](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/ai/pr-desc.md)
+    - uses the output of [`branch-compare.sh`](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/ai/branch-compare.sh) as input
 
 - Fine tuning [all aspects](https://gist.github.com/livecodelife/6c97dc64ee1a12687a554ada9dd579dd) of Roo
   - Set Up MCP servers to provide even more context e.g.
