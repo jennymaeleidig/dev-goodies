@@ -53,3 +53,17 @@ Collection of Resources and Tools I use (typically on MacOS, common tools exclud
 - [ai coding agents](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/ai/ai-resources.md)
 - [game dev](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/game/game-dev.md)
 - [colima](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/colima/colima.md) - docker desktop alternative
+
+### whats next
+- setup for remote development using linux desktop
+  - use macbook as terminal
+  - [yabai](https://github.com/asmvik/yabai) - macos tiling window manager
+  - [xquarts](https://www.youtube.com/watch?v=I3XMXzi-rYs) - ssh into gui applications running on linux
+  - tailscale for "local" network access
+- actually [switch to nvim](https://youtu.be/aCgDs8Nv-jo)
+  - start with remote ssh filesystem with vscode
+  - adapt this repo to a standard dotfiles repo
+- learn shortcuts!!
+  - [cheat](https://github.com/cheat/cheat)
+  - [tldr-pages](https://github.com/tldr-pages/tldr)
+- archive software installers on server
