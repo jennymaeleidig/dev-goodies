@@ -67,3 +67,4 @@ Collection of Resources and Tools I use (typically on MacOS, common tools exclud
   - [cheat](https://github.com/cheat/cheat)
   - [tldr-pages](https://github.com/tldr-pages/tldr)
 - archive software installers on server
+- move to [codeberg](https://codeberg.org/)
