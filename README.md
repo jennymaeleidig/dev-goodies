@@ -60,6 +60,7 @@ Collection of Resources and Tools I use (typically on MacOS, common tools exclud
   - [yabai](https://github.com/asmvik/yabai) - macos tiling window manager
   - [xquarts](https://www.youtube.com/watch?v=I3XMXzi-rYs) - ssh into gui applications running on linux
   - tailscale for "local" network access
+  - WOL via smart outlet because it honestly seems more reliable
 - actually [switch to nvim](https://youtu.be/aCgDs8Nv-jo)
   - start with remote ssh filesystem with vscode
   - adapt this repo to a standard dotfiles repo
