@@ -55,10 +55,16 @@ Collection of Resources and Tools I use (typically on MacOS, common tools exclud
 - [colima](https://github.com/jennymaeleidig/dev-goodies/blob/main/docs/colima/colima.md) - docker desktop alternative
 
 ### whats next
-- setup for remote development using linux desktop
+- setup for remote development using [linux desktop](https://ubuntu.com/server/docs/how-to/security/openssh-server/)
   - use macbook as terminal
-  - [yabai](https://github.com/asmvik/yabai) - macos tiling window manager
-  - [xquarts](https://www.youtube.com/watch?v=I3XMXzi-rYs) - ssh into gui applications running on linux
+    - [yabai](https://github.com/asmvik/yabai) - macos tiling window manager
+    - [xquarts](https://www.youtube.com/watch?v=I3XMXzi-rYs) - ssh into gui applications running on linux
+    - [vscode minified](https://medium.com/@nikmas_dev/vscode-neovim-setup-keyboard-centric-powerful-reliable-clean-and-aesthetic-development-582d34297985)
+    - [terminus](https://termius.com/index.html)
+      - [code form phone](https://www.youtube.com/watch?v=QaCyzghT_OA)
+    - [tmux like](https://zellij.dev/tutorials/basic-functionality/)
+    - [performance monitor](https://github.com/aristocratos/btop)
+    - [further](https://igorbedesqui.com/writing/macos-rice#obsidian) [ricing](https://www.youtube.com/watch?v=8pqFtkQip4I)
   - tailscale for "local" network access
   - WOL via smart outlet because it honestly seems more reliable
 - actually [switch to nvim](https://youtu.be/aCgDs8Nv-jo)
@@ -69,3 +75,6 @@ Collection of Resources and Tools I use (typically on MacOS, common tools exclud
   - [tldr-pages](https://github.com/tldr-pages/tldr)
 - archive software installers on server
 - move to [codeberg](https://codeberg.org/)
+- headless cli ai agent via [continue](https://docs.continue.dev/cli/headless-mode)
+- move to [obsidian](https://help.obsidian.md/import/apple-notes)
+- more powerful shortcuts in macos via [raycast](https://www.raycast.com/)
